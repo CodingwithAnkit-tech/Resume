@@ -37,7 +37,6 @@ I enjoy building practical projects, analyzing data, and continuously improving 
 - 📁 Supporting documents (if any)
 
 ---
-
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/CodingwithAnkit-tech  
