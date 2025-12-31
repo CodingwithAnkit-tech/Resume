@@ -3,7 +3,7 @@
 Welcome to my **Resume Repository** 🚀  
 This repository contains my **latest professional resume**, highlighting my education, technical skills, projects, and internship experience.
 
-
+---
 ## 👨‍💻 About Me
 
 I am a **B.Tech (Computer Science & Engineering) student** with a strong interest in **Python, Data Analytics, and Machine Learning**.  
