@@ -10,6 +10,7 @@ This repository contains my **latest professional resume**, highlighting my educ
 I am a **B.Tech (Computer Science & Engineering) student** with a strong interest in **Python, Data Analytics, and Machine Learning**.  
 I enjoy building practical projects, analyzing data, and continuously improving my technical skill set.
 
+
  ---
 ## 🛠 Skills Snapshot
 
