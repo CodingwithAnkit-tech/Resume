@@ -35,7 +35,7 @@ I enjoy building practical projects, analyzing data, and continuously improving 
 ## 📂 Repository Contents
 
 - 📄 Resume (PDF)
- 📁 Supporting documents (if any)
+-  📁 Supporting documents (if any)
 
 ---
 ## 🔗 Connect With Me
