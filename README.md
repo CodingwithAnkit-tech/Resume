@@ -17,7 +17,6 @@ I enjoy building practical projects, analyzing data, and continuously improving 
 - **Web:** HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 
----
 
 ## 🎓 Education
 
