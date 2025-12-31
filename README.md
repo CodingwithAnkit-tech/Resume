@@ -48,6 +48,4 @@ I enjoy building practical projects, analyzing data, and continuously improving 
 ## ⭐ Note
 
 This resume is regularly updated to reflect my latest skills, projects, and learning journey.
-
-
-
+---
