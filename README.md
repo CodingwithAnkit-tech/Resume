@@ -18,7 +18,7 @@ I enjoy building practical projects, analyzing data, and continuously improving 
 - **Machine Learning:** Supervised & Unsupervised Learning (Basics)
 - **Web:** HTML, CSS
 - **Tools:** Git, GitHub, VS Code
-
+--- 
 ## 🎓 Education
 
 - **B.Tech – Computer Science & Engineering**
